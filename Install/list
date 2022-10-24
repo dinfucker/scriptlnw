@@ -1,8 +1,8 @@
 #!/bin/bash
 #====================================================
-#	SCRIPT: SSHPLUS MANAGER CONNECTION
-#   DATE:  Dec 28 2020
-#	TRANSLATED BY:1000LNW
+#	สคริปต์: SSHPLUS MANAGER CONNECTION
+#   DATE:    25 ตุลาคม 2022
+#	แปลโดย:1000LNW
 #====================================================
 _lvk=$(wget -qO- https://raw.githubusercontent.com/dinfucker/scriptlnw/main/Install/version)
 IP=$(wget -qO- ipv4.icanhazip.com)
